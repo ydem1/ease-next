@@ -13,7 +13,6 @@ export default function Home() {
       >
         Hello
       </h1>
-      <Image src={""} alt={""} />
     </main>
   );
 }
